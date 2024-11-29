@@ -1,7 +1,15 @@
 [
 {
+		"title": "Coding Tips",
+		"date":"Fri Nov 29 2024 17:38:39 GMT+0000 (Coordinated Universal Time)",
+		"url":"/zettelkasten/coding-tips/",
+		"content": "This is a test page for coding tips",
+		"tags": [ "note"]
+},
+
+{
 		"title": "Digital Garden",
-		"date":"Fri Nov 29 2024 17:19:58 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Nov 29 2024 17:38:39 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "This is going to be my digital garden, published from my Obsidian Vault.",
 		"tags": [ "note","gardenEntry"]
