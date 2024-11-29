@@ -1,7 +1,15 @@
 [
 {
+		"title": "Berninek teszt",
+		"date":"Fri Nov 29 2024 21:41:20 GMT+0000 (Coordinated Universal Time)",
+		"url":"/zettelkasten/berninek-teszt/",
+		"content": "ez egy teszt Berninek\nitt a szöveg",
+		"tags": [ "note"]
+},
+
+{
 		"title": "Coding Tips",
-		"date":"Fri Nov 29 2024 21:38:43 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Nov 29 2024 21:41:20 GMT+0000 (Coordinated Universal Time)",
 		"url":"/zettelkasten/coding-tips/",
 		"content": "This is a test page for coding tips",
 		"tags": [ "note"]
@@ -9,9 +17,9 @@
 
 {
 		"title": "Digital Garden",
-		"date":"Fri Nov 29 2024 21:38:43 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Nov 29 2024 21:41:20 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
-		"content": "This is going to be my digital garden, published from my Obsidian Vault.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/zettelkasten/coding-tips/\">Coding Tips</a>",
+		"content": "This is going to be my digital garden, published from my Obsidian Vault.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/zettelkasten/coding-tips/\">Coding Tips</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/zettelkasten/berninek-teszt/\">Berninek teszt</a>",
 		"tags": [ "note","gardenEntry"]
 }
 ]
