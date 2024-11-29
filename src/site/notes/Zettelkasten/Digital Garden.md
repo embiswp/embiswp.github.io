@@ -3,5 +3,5 @@
 ---
 
 This is going to be my digital garden, published from my Obsidian Vault.
-
+[[Zettelkasten/Coding Tips\|Coding Tips]]
 
