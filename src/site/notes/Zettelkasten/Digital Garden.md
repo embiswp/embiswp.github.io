@@ -7,4 +7,4 @@ This is going to be my digital garden, published from my Obsidian Vault.
 
 [[Zettelkasten/Berninek teszt\|Berninek teszt]]
 
-[[Péternek teszt\|Péternek teszt]]
+[[Zettelkasten/Péternek teszt\|Péternek teszt]]
