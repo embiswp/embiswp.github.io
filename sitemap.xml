@@ -3,22 +3,27 @@
     
         <url>
             <loc>/404/</loc>
-            <lastmod>2024-12-02T12:36:40.212Z</lastmod>
+            <lastmod>2024-12-02T12:38:04.041Z</lastmod>
         </url>
     
         <url>
             <loc>/zettelkasten/berninek-teszt/</loc>
-            <lastmod>2024-12-02T12:36:40.216Z</lastmod>
+            <lastmod>2024-12-02T12:38:04.045Z</lastmod>
         </url>
     
         <url>
             <loc>/zettelkasten/coding-tips/</loc>
-            <lastmod>2024-12-02T12:36:40.216Z</lastmod>
+            <lastmod>2024-12-02T12:38:04.045Z</lastmod>
         </url>
     
         <url>
             <loc>/</loc>
-            <lastmod>2024-12-02T12:36:40.216Z</lastmod>
+            <lastmod>2024-12-02T12:38:04.045Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/zettelkasten/peternek-teszt/</loc>
+            <lastmod>2024-12-02T12:38:04.045Z</lastmod>
         </url>
     
 </urlset>
