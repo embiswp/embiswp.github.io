@@ -1,7 +1,7 @@
 [
 {
 		"title": "Berninek teszt",
-		"date":"Mon Dec 02 2024 12:38:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Jan 14 2025 14:29:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/zettelkasten/berninek-teszt/",
 		"content": "ez egy teszt Berninek\nitt a szöveg",
 		"tags": [ "note"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Coding Tips",
-		"date":"Mon Dec 02 2024 12:38:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Jan 14 2025 14:29:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/zettelkasten/coding-tips/",
 		"content": "This is a test page for coding tips",
 		"tags": [ "note"]
@@ -17,17 +17,25 @@
 
 {
 		"title": "Digital Garden",
-		"date":"Mon Dec 02 2024 12:38:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Jan 14 2025 14:29:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
-		"content": "This is going to be my digital garden, published from my Obsidian Vault.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/zettelkasten/coding-tips/\">Coding Tips</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/zettelkasten/berninek-teszt/\">Berninek teszt</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/zettelkasten/peternek-teszt/\">Péternek teszt</a>",
+		"content": "This is going to be my digital garden, published from my Obsidian Vault.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/zettelkasten/coding-tips/\">Coding Tips</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/zettelkasten/berninek-teszt/\">Berninek teszt</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/zettelkasten/peternek-teszt/\">Péternek teszt</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/zettelkasten/test-fuer-joerg/\">Test für Jörg</a>",
 		"tags": [ "note","gardenEntry"]
 },
 
 {
 		"title": "Péternek teszt",
-		"date":"Mon Dec 02 2024 12:38:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Jan 14 2025 14:29:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/zettelkasten/peternek-teszt/",
 		"content": "Szia, heló",
+		"tags": [ "note"]
+},
+
+{
+		"title": "Test für Jörg",
+		"date":"Tue Jan 14 2025 14:29:58 GMT+0000 (Coordinated Universal Time)",
+		"url":"/zettelkasten/test-fuer-joerg/",
+		"content": "<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">2025-01-14</a> 15:28\nTags:\nDas ist ein Test für <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Jörg Egretzberger</a>",
 		"tags": [ "note"]
 }
 ]
